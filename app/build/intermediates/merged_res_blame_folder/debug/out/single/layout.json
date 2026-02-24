@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.luckypaneler.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.luckypaneler.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.luckypaneler.app-mergeDebugResources-30:/layout/item_card.xml",
+        "source": "com.luckypaneler.app-main-33:/layout/item_card.xml"
+    }
+]

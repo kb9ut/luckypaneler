@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#1C1B1F</color>
+    <color name="error">#F2B8B5</color>
+    <color name="on_error">#601410</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_surface">#E6E1E5</color>
+    <color name="pair_1">#FF6B6B</color>
+    <color name="pair_10">#85C1E9</color>
+    <color name="pair_2">#4ECDC4</color>
+    <color name="pair_3">#45B7D1</color>
+    <color name="pair_4">#96CEB4</color>
+    <color name="pair_5">#FFEAA7</color>
+    <color name="pair_6">#DDA0DD</color>
+    <color name="pair_7">#98D8C8</color>
+    <color name="pair_8">#F7DC6F</color>
+    <color name="pair_9">#BB8FCE</color>
+    <color name="primary">#6750A4</color>
+    <color name="primary_variant">#7F67BE</color>
+    <color name="secondary">#625B71</color>
+    <color name="skull_warning">#FF0000</color>
+    <color name="star_bonus">#FFD700</color>
+    <color name="surface">#1C1B1F</color>
+    <string name="analysis_failed">解析失敗</string>
+    <string name="analyzing">解析中...</string>
+    <string name="app_name">Lucky Paneler</string>
+    <string formatted="false" name="grid_detected">グリッド検出: %dx%d</string>
+    <string name="no_video_selected">写真が選択されていません</string>
+    <string name="pairs_found">%d組のペアを検出</string>
+    <style name="Theme.LuckyPaneler" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/on_error</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+    </style>
+</resources>

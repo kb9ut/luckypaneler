@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lucky Paneler</string>
+    <string name="no_video_selected">写真が選択されていません</string>
+    <string name="analyzing">解析中...</string>
+    <string name="analysis_failed">解析失敗</string>
+    <string name="grid_detected" formatted="false">グリッド検出: %dx%d</string>
+    <string name="pairs_found">%d組のペアを検出</string>
+</resources>
